@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "リードコントロール",
+  "base_artist": "なるみや",
+  "createdAt": "2026-02-07T12:55:51.239220Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "リードコントロール",
+      "artist": "なるみや",
+      "has_synced": false,
+      "path": "select/pl_01_リードコントロール_なるみや.txt"
+    }
+  ]
+}
